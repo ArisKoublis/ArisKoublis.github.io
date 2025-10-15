@@ -99,3 +99,15 @@ footer {
   margin-bottom: 5px;
   color: #fff;
 }
+
+.role {
+  display: flex;                 /* arrange children in a row */
+  justify-content: space-between; /* title left, date right */
+  align-items: center;           /* vertically center them */
+  margin-bottom: 10px;
+}
+
+.role h4, .role p {
+  margin: 0;                     /* remove default spacing */
+}
+
