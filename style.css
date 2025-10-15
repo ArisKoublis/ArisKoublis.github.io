@@ -80,6 +80,7 @@ footer {
 
 .experience-card h3,
 .experience-card h4 {
+  margin: 0;  
   color: #fff;
 }
 
