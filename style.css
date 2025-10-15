@@ -85,7 +85,7 @@ footer {
 }
 
 .experience-card p {
-  margin: 5px 0 10px;
+  margin: 0;
   font-style: italic;
   color: #ccc; /* lighter than white for contrast */
 }
